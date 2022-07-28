@@ -1,0 +1,10 @@
+I have worked on 4 to 5 Group projects , 2 single projects and "Friday"project is the best and some funniest project of all.
+Its purely based on python language.
+It is a chatbot system in which it takes me inspiration to create this project by watching Iron Man movie.
+In the movie Tony Stark used to talk to a AI program and it will also help him in dire sitution.
+The program in which I created is very interactive AI program, My bot will be able to do some tasks also.
+its the base to the future in which all of them will be programmed by using AI.
+
+Link : https://github.com/VishalRV12/Friday_Chatbot.git
+
+This is my github_link with some projects : https://github.com/VishalRV12

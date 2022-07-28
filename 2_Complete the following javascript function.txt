@@ -1,0 +1,3 @@
+function getUrlParameterValue(url, parameter) {
+            let parameter = new URLSearchParams(window.location.search);
+            return parameter.get(url,parameter);
